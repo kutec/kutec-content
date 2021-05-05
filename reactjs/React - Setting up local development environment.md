@@ -17,7 +17,13 @@ To start with any development project, we need to setup a development enviorment
 ```
 npm i create-react-app
 ```
-#### Step 2 - 
+#### Step 2 - Create a new Reactjs project
+```
+npx create-react-app my-app
+cd my-app
+npm start
+```
+![https://github.com/facebook/create-react-app](https://camo.githubusercontent.com/b275c108e1c9e2d1c732a66ca1e0b6ecb1ae260824fb5d6ca4c4e46ee85d1ca0/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f66616365626f6f6b2f6372656174652d72656163742d61707040323762343261633765666130313866323534313135336162333064363331383066356661333965302f73637265656e636173742e737667)
 
 ## Reactjs - Quick Options
 
@@ -26,6 +32,6 @@ npm i create-react-app
 ### Reactjs - Instant Start with CDN
 https://reactjs.org/docs/add-react-to-a-website.html#add-react-in-one-minute
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjcwODYzOTQsMjA3NDg4MzY4OSwtMT
+eyJoaXN0b3J5IjpbLTE4Nzg4MzQxMjQsMjA3NDg4MzY4OSwtMT
 UyMjM1NjA4Niw3MzA5OTgxMTZdfQ==
 -->
