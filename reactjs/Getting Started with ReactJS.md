@@ -62,11 +62,11 @@ You can simply include below scripts to your HTML page and boom, you are up with
 <script crossorigin src="https://unpkg.com/react-dom@17/umd/react-dom.production.min.js"></script>
 ```
 
-Well, with this, we are done with the first step of setting up the development enviornment for Reactjs project and our application can be seen now in the browser.
+Well, this is it. We are done with the first step on the journey of learning Reactjs and our application can be seen now in the browser.
 
 Next, we would understand the scafolding of a project. 
 
 Stay tuned and happy coding :)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2ODgzMzQ4OSwtMTE0NzE0MDU4Ml19
+eyJoaXN0b3J5IjpbNTk2MjExNTMyLC0xMTQ3MTQwNTgyXX0=
 -->
