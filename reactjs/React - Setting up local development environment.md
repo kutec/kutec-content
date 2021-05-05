@@ -15,7 +15,7 @@ To start with any development project, we need to setup a development enviorment
 
 #### Step 1 - Install `create-react-app` gloabally:
 ```
-npm i create-react-app
+npm i create-react-app -g
 ```
 #### Step 2 - Create a new Reactjs project
 ```
@@ -33,6 +33,6 @@ npm start
 ### Reactjs - Instant Start with CDN
 https://reactjs.org/docs/add-react-to-a-website.html#add-react-in-one-minute
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA3NDgyNDk5LDIwNzQ4ODM2ODksLTE1Mj
-IzNTYwODYsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTExNzY4OTU4MywyMDc0ODgzNjg5LC0xNT
+IyMzU2MDg2LDczMDk5ODExNl19
 -->
