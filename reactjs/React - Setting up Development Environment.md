@@ -44,11 +44,12 @@ Just to give a name of few, you can head over to the below links and decide the 
 - [CodeSandbox](https://codesandbox.io/s/new)
 - [Stackblitz](https://stackblitz.com/fork/react)
 
-I personally like CodeSandbox.
+I personally prefer **CodeSandbox**.
 
 ### Reactjs - Instant Start with CDN
+
+If you are traditional web developer and know nothing about React but  still want to feel the react app then you can quic
 https://reactjs.org/docs/add-react-to-a-website.html#add-react-in-one-minute
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDkyMzk5MTIsLTE5OTIxODAyMDRdfQ
-==
+eyJoaXN0b3J5IjpbNjYwOTEwNDEyLC0xOTkyMTgwMjA0XX0=
 -->
