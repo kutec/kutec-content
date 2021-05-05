@@ -63,7 +63,10 @@ You can simply include below scripts to your HTML page and boom, you are up with
 <script crossorigin src="https://unpkg.com/react@17/umd/react.production.min.js"></script>
 <script crossorigin src="https://unpkg.com/react-dom@17/umd/react-dom.production.min.js"></script>
 ```
-https://reactjs.org/docs/add-react-to-a-website.html#add-react-in-one-minute
+
+Well, with this, we are done with the first step of setting up the development enviornment for Reactjs project and our application can be seen now in the browser.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NjI5MTczMF19
+eyJoaXN0b3J5IjpbLTE0OTQ2NTkzMzFdfQ==
 -->
