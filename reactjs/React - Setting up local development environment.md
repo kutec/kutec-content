@@ -13,8 +13,11 @@ To start with any development project, we need to setup a development enviorment
 
 <small>I work in Windows OS, so all the steps below, would be in that context only.</small>
 
-First step is to indatll 
-
+#### Step 1 - Install `create-react-app` gloabally:
+```
+npm i create-react-app
+```
+#### Step 2 - 
 
 ## Reactjs - Quick Options
 
@@ -23,6 +26,6 @@ First step is to indatll
 ### Reactjs - Instant Start with CDN
 https://reactjs.org/docs/add-react-to-a-website.html#add-react-in-one-minute
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MDcxNTM0MCwyMDc0ODgzNjg5LC0xNT
-IyMzU2MDg2LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE5MjcwODYzOTQsMjA3NDg4MzY4OSwtMT
+UyMjM1NjA4Niw3MzA5OTgxMTZdfQ==
 -->
