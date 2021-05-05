@@ -52,16 +52,18 @@ If you are traditional web developer and know nothing about ReactJS but still wa
 
 You can simply include below scripts to your HTML page and boom, you are up with the Reactjs setup. Now you can play around it.
 
-For Developers
+#### For Developers
 ```
 <script crossorigin src="https://unpkg.com/react@17/umd/react.development.js"></script>
 <script crossorigin src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"></script>
 ```
 
-
+#### For Production
 ```
+<script crossorigin src="https://unpkg.com/react@17/umd/react.production.min.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@17/umd/react-dom.production.min.js"></script>
 ```
 https://reactjs.org/docs/add-react-to-a-website.html#add-react-in-one-minute
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDE4MDk3MTBdfQ==
+eyJoaXN0b3J5IjpbMTQ4NjI5MTczMF19
 -->
