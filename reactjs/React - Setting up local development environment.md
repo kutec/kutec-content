@@ -15,12 +15,13 @@ To start with any development project, we need to setup a development enviorment
 
 
 
+## Reactjs - Quick Options
 
-## Reactjs - Development Envioronment (online IDE)
+### Reactjs - Development Envioronment (online IDE)
 
-## Reactjs - Instant Start with CDN
+### Reactjs - Instant Start with CDN
 https://reactjs.org/docs/add-react-to-a-website.html#add-react-in-one-minute
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3OTA5Mjk3NSwtMTUyMjM1NjA4Niw3Mz
+eyJoaXN0b3J5IjpbMjA3NDg4MzY4OSwtMTUyMjM1NjA4Niw3Mz
 A5OTgxMTZdfQ==
 -->
