@@ -17,7 +17,10 @@ I work in Windows OS, so all the steps below, would be in that context only.
 
 
 ## Reactjs - Development Envioronment (online IDE)
+
+## Reactjs - Instant Start with CDN
+https://reactjs.org/docs/add-react-to-a-website.html#add-react-in-one-minute
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMDk0ODg5MSwtMTUyMjM1NjA4Niw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE1MDgxMzI5NzQsLTE1MjIzNTYwODYsNz
+MwOTk4MTE2XX0=
 -->
