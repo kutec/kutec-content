@@ -26,7 +26,7 @@ OR
 create-react-app my-app
 ```
 ### Step 3 - Run the project
-Once the project created succussflly, you can change 
+Once the project creation is successful, you can switch over the project directory and run the project.
 ```
 cd my-app
 npm start
@@ -34,11 +34,13 @@ npm start
 ![Credit: https://github.com/facebook/create-react-app](https://camo.githubusercontent.com/b275c108e1c9e2d1c732a66ca1e0b6ecb1ae260824fb5d6ca4c4e46ee85d1ca0/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f66616365626f6f6b2f6372656174652d72656163742d61707040323762343261633765666130313866323534313135336162333064363331383066356661333965302f73637265656e636173742e737667)
 
 ## Reactjs - Quick Options
+As mentioned above, there are other options too where the manuall effo
 
 ### Reactjs - Development Envioronment (online IDE)
 
 ### Reactjs - Instant Start with CDN
 https://reactjs.org/docs/add-react-to-a-website.html#add-react-in-one-minute
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUzNDI1NjE3LC0xOTkyMTgwMjA0XX0=
+eyJoaXN0b3J5IjpbLTEwNzQzMTQ3NTMsLTE5OTIxODAyMDRdfQ
+==
 -->
