@@ -17,7 +17,7 @@ npm i create-react-app -g
 ```
 #### Step 2 - Create a new Reactjs project
 ```
-npx create-react-app my-app // OR
+npx create-react-app my-app
 ```
 OR
 ```
@@ -38,7 +38,7 @@ As mentioned above, there are other online options available where you can just 
 
 ### Reactjs - Development Envioronment (online IDE)
 Just to give a name of few, you can head over to the below links and decide the most suitable for you.
-- [CodePen](https://reactjs.org/redirect-to-codepen/hello-world)
+- [CodePen](https://codepen.io/pen?&editors=0010&prefill_data_id=02943edd-01bf-44c1-ab45-2ea17c6661c5)
 - [CodeSandbox](https://codesandbox.io/s/new)
 - [Stackblitz](https://stackblitz.com/fork/react)
 
@@ -68,5 +68,5 @@ Next, we would understand the scafolding of a project.
 
 Stay tuned and happy coding :)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI5MTkyNjUsLTExNDcxNDA1ODJdfQ==
+eyJoaXN0b3J5IjpbMjA2ODgzMzQ4OSwtMTE0NzE0MDU4Ml19
 -->
