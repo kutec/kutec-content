@@ -48,8 +48,11 @@ I personally prefer **CodeSandbox**.
 
 ### Reactjs - Instant Start with CDN
 
-If you are traditional web developer and know nothing about ReactJS but still want to feel the react app then you can quickly make use of the CDN
+If you are traditional web developer and know nothing about ReactJS but still want to feel the react app then you can quickly make use of the CDN.
+
+You can simply include below scripts to your HTML page and boom, you are up with the Reactjs setup. Now you can play around it.
+
 https://reactjs.org/docs/add-react-to-a-website.html#add-react-in-one-minute
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzY1Mjg4MDldfQ==
+eyJoaXN0b3J5IjpbLTk0NTEwNTE0NF19
 -->
