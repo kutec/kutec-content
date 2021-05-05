@@ -66,7 +66,9 @@ You can simply include below scripts to your HTML page and boom, you are up with
 
 Well, with this, we are done with the first step of setting up the development enviornment for Reactjs project and our application can be seen now in the browser.
 
+Next, we would understand the scafolding of a project. 
 
+Stay tuned and happy coding :)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTQ2NTkzMzFdfQ==
+eyJoaXN0b3J5IjpbLTExNDcxNDA1ODJdfQ==
 -->
