@@ -39,10 +39,11 @@ npm start
 As mentioned above, there are other online options available where you can just bypass the manuall efforts.
 
 ### Reactjs - Development Envioronment (online IDE)
-Just to give a name of few, you can head o
+Just to give a name of few, you can head over to the below links and decide the most suitable for you.
+
 
 ### Reactjs - Instant Start with CDN
 https://reactjs.org/docs/add-react-to-a-website.html#add-react-in-one-minute
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMzNzM5NzYwLC0xOTkyMTgwMjA0XX0=
+eyJoaXN0b3J5IjpbMzY2ODA4NzQ3LC0xOTkyMTgwMjA0XX0=
 -->
