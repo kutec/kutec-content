@@ -6,10 +6,15 @@ I have done tons of projects in Angular but never got the opportunity to work on
 
 Let's begin now.
 
-## Reactjs - Local Development Setup
+To start with any development project, we need to setup a development enviorment. Nowa
 
-## Reactjs - Dev
+## Reactjs - Local Development Environment
+
+First, we need a a local development environment. (I work in Windows OS, so all the steps would be in that context only).
+
+
+## Reactjs - Development Envioronment (online IDE)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMjIzNDA4NiwtMTUyMjM1NjA4Niw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTIwNTEyMDU4MzMsLTE1MjIzNTYwODYsNz
+MwOTk4MTE2XX0=
 -->
