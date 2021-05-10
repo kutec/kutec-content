@@ -1,6 +1,6 @@
 In this post, we would understand the project architecture of a new project, created with `create-react-app` NPM package.
 
-If you are new to React and have no idea on setting up development environment then reading [this article](/reactjs/getting-started-with-react) is recommended.
+If you have no idea what the `create-react-app` is then head over to [this article](/reactjs/getting-started-with-react) before continuing here.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNzUzMDg5NF19
+eyJoaXN0b3J5IjpbNjUxNjkxMTAzLDIwMTc1MzA4OTRdfQ==
 -->
