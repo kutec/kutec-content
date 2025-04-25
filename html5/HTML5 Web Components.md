@@ -7,7 +7,26 @@ Here’s the story of how I went from  _"This looks complicated"_  to  _"Why did
 ## 1. My "Aha!" Moment
 
 **The Problem:**  
-Back in 2022, I was building a marketing site with **three identical card components**. My React
+Back in 2022, I was building a marketing site with **three identical card components**. 
+
+My React solution:
+```
+// Card.jsx  
+export default function Card({ title }) {  
+  return <div className="card">{title}</div>;  
+}  
+```
+It worked, but:
+
+-   **🚀 45KB of React + hydration**  just for static cards
+    
+-   **🤯 Overkill**  for a simple website
+    
+
+**The Wake-Up Call:**  
+My coworker casually mentioned:  _"You know browsers already support component reuse, right?"_
+
+Cue my existential crisis.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3OTgyNDMwOF19
+eyJoaXN0b3J5IjpbMjEyMTYyMjJdfQ==
 -->
