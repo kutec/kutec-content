@@ -49,8 +49,8 @@ If you've worked with earlier versions of HTML, such as XHTML or HTML4, you're l
 </body>
 </html>
 ```
-Having a look at the above example, you can notice that all `<div>` refenreced with unique CSheader, navigation, siderbar, and footer, evrything takes `<div>` element with 
+Having a look at the above code example, you can notice that all `<div>` refenreced with unique ID for header, navigation, siderbar,content  and footer. This was the old way of identifying each different sections in HTML structure.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNDcyMjIxNiwxMTYxNTQwOTg2LDE3OT
+eyJoaXN0b3J5IjpbLTMwMjMwNzY0OSwxMTYxNTQwOTg2LDE3OT
 Y3MDA3MTMsNDQxOTg2MzUwLC0xOTk4NTE3MzcwXX0=
 -->
