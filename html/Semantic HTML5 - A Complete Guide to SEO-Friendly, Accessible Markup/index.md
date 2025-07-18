@@ -49,8 +49,8 @@ If you've worked with earlier versions of HTML, such as XHTML or HTML4, you're l
 </body>
 </html>
 ```
-
+Having a look at the above example, you can notice that header, navigation, siderbar, and footer, evrything 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MDM5NTUxMiwxMTYxNTQwOTg2LDE3OT
+eyJoaXN0b3J5IjpbLTQwNTc5MjMxMSwxMTYxNTQwOTg2LDE3OT
 Y3MDA3MTMsNDQxOTg2MzUwLC0xOTk4NTE3MzcwXX0=
 -->
