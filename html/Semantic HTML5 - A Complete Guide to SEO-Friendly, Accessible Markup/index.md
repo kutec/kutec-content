@@ -48,14 +48,12 @@ If you see two decades ago, we had table-based HTML layout. Gradually `<div>` to
 </body>
 </html>
 ```
-Having a look at the above code-example, you can notice that all `<div>` refenreced with unique ID like header, navigation, etc. This was the only way then to identify different sections in HTML page structure.
-
 In the code sample above, each `<div>` refers to a unique ID, such as header, navigation, etc. This was the only way to distinguish between distinct sections of an HTML page structure.
 
 Okay, we have read lot about the past! Let's quickly jump into the HTML5 now.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MDg3NTgxNiwtNjY5MjQwMDY3LDEwND
+eyJoaXN0b3J5IjpbMjA3OTEzNjg0NywtNjY5MjQwMDY3LDEwND
 E5Mzk4NTksMTQ5MDkyMjk1MCwxMTYxNTQwOTg2LDE3OTY3MDA3
 MTMsNDQxOTg2MzUwLC0xOTk4NTE3MzcwXX0=
 -->
