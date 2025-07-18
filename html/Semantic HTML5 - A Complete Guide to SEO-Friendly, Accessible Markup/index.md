@@ -14,20 +14,13 @@ lastmod: 2021-04-29T11:32:09.599Z
 
 If you've worked with earlier versions of HTML, such as XHTML or HTML4, you're likely familiar with the page structure that relied heavily on `<div>` elements.
 
-
+### HTML - Old Code Example
 ```
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>Old HTML4/XHTML Page</title>
-    <style type="text/css">
-        #header { background: #f0f0f0; padding: 10px; }
-        #nav { background: #e0e0e0; padding: 5px; }
-        #content { float: left; width: 70%; padding: 10px; }
-        #sidebar { float: right; width: 25%; padding: 10px; }
-        #footer { clear: both; background: #f0f0f0; padding: 10px; }
-    </style>
 </head>
 <body>
     <div id="header">
@@ -56,7 +49,8 @@ If you've worked with earlier versions of HTML, such as XHTML or HTML4, you're l
 </body>
 </html>
 ```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NjY0NTg1OSwxMTYxNTQwOTg2LDE3OT
+eyJoaXN0b3J5IjpbLTY5MDM5NTUxMiwxMTYxNTQwOTg2LDE3OT
 Y3MDA3MTMsNDQxOTg2MzUwLC0xOTk4NTE3MzcwXX0=
 -->
