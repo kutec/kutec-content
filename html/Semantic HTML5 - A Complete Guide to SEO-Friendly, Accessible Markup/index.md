@@ -12,8 +12,8 @@ tags:
 lastmod: 2021-04-29T11:32:09.599Z
 ---
 
-If you have worked on the earlier version of the HTML like XHTML or HTML4 then you must have idea about the HTML page structure with lot of DIVs
+If you have worked on the earlier version of the HTML like XHTML or HTML4 then you must have idea about the HTML page structure with lot of DIVs.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ3MTkyMjM3LDE3OTY3MDA3MTMsNDQxOT
-g2MzUwLC0xOTk4NTE3MzcwXX0=
+eyJoaXN0b3J5IjpbLTU1MDk1MTIwNywxNzk2NzAwNzEzLDQ0MT
+k4NjM1MCwtMTk5ODUxNzM3MF19
 -->
