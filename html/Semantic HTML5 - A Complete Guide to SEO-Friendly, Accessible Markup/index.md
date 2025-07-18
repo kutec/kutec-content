@@ -50,8 +50,9 @@ Adn if you've worked with earlier versions of HTML, such as XHTML or HTML4, you'
 </body>
 </html>
 ```
-Having a look at the above code example, you can notice that all `<div>` refenreced with unique ID for header, navigation, siderbar, content  and footer. This was the old way of identifying each different sections in HTML page structure. This in other words also called 
+Having a look at the above code example, you can notice that all `<div>` refenreced with unique ID like header, navigation, siderbar, content  and footer. This was the old way of identifying each different sections in HTML page structure. This in other words also called div-based layout.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MDkyMjk1MCwxMTYxNTQwOTg2LDE3OT
-Y3MDA3MTMsNDQxOTg2MzUwLC0xOTk4NTE3MzcwXX0=
+eyJoaXN0b3J5IjpbNzUyNTE5NDY1LDE0OTA5MjI5NTAsMTE2MT
+U0MDk4NiwxNzk2NzAwNzEzLDQ0MTk4NjM1MCwtMTk5ODUxNzM3
+MF19
 -->
