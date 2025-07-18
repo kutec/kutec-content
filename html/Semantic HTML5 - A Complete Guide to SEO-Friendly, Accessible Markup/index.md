@@ -13,7 +13,50 @@ lastmod: 2021-04-29T11:32:09.599Z
 ---
 
 If you've worked with earlier versions of HTML, such as XHTML or HTML4, you're likely familiar with the page structure that relied heavily on `<div>` elements.
+
+
+```
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Old HTML4/XHTML Page</title>
+    <style type="text/css">
+        #header { background: #f0f0f0; padding: 10px; }
+        #nav { background: #e0e0e0; padding: 5px; }
+        #content { float: left; width: 70%; padding: 10px; }
+        #sidebar { float: right; width: 25%; padding: 10px; }
+        #footer { clear: both; background: #f0f0f0; padding: 10px; }
+    </style>
+</head>
+<body>
+    <div id="header">
+        <h1>Website Header</h1>
+    </div>
+    
+    <div id="nav">
+        <a href="#">Home</a> | 
+        <a href="#">About</a> | 
+        <a href="#">Contact</a>
+    </div>
+    
+    <div id="content">
+        <h2>Main Content</h2>
+        <p>This is the main content area, structured using a div.</p>
+    </div>
+    
+    <div id="sidebar">
+        <h3>Sidebar</h3>
+        <p>Additional content or links go here.</p>
+    </div>
+    
+    <div id="footer">
+        <p>&copy; 2024 Old Website. All rights reserved.</p>
+    </div>
+</body>
+</html>
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MTU0MDk4NiwxNzk2NzAwNzEzLDQ0MT
-k4NjM1MCwtMTk5ODUxNzM3MF19
+eyJoaXN0b3J5IjpbLTc4NjY0NTg1OSwxMTYxNTQwOTg2LDE3OT
+Y3MDA3MTMsNDQxOTg2MzUwLC0xOTk4NTE3MzcwXX0=
 -->
