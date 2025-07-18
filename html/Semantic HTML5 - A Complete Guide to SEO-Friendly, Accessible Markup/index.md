@@ -11,6 +11,8 @@ tags:
   - accessibility
 lastmod: 2021-04-29T11:32:09.599Z
 ---
+
+
 If you see two decades ago, we had table-based HTML layout. Gradually `<div>` took over for the earlier versions of HTML, such as XHTML or HTML4. This is also called div-based HTML layout.
  
 ### HTML - Old Code Example
@@ -53,7 +55,7 @@ In the code sample above, each `<div>` refers to a unique ID, such as header, na
 Okay, we have read lot about the past! Let's quickly jump into the HTML5 now.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3OTEzNjg0NywtNjY5MjQwMDY3LDEwND
+eyJoaXN0b3J5IjpbMjA2NjM1ODk1NSwtNjY5MjQwMDY3LDEwND
 E5Mzk4NTksMTQ5MDkyMjk1MCwxMTYxNTQwOTg2LDE3OTY3MDA3
 MTMsNDQxOTg2MzUwLC0xOTk4NTE3MzcwXX0=
 -->
