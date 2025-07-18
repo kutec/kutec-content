@@ -50,8 +50,10 @@ If you see two decades ago, we had table-based HTML layout. Gradually `<div>` to
 ```
 Having a look at the above code-example, you can notice that all `<div>` refenreced with unique ID like header, navigation, etc. This was the only way then to identify different sections in HTML page structure.
 
+In the code sample above, each '<div>' refers to a unique ID, such as header, navigation, etc. This was the only way to distinguish between distinct sections of an HTML page structure.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2OTI0MDA2NywxMDQxOTM5ODU5LDE0OT
-A5MjI5NTAsMTE2MTU0MDk4NiwxNzk2NzAwNzEzLDQ0MTk4NjM1
-MCwtMTk5ODUxNzM3MF19
+eyJoaXN0b3J5IjpbMTk3NzE4ODU4MiwtNjY5MjQwMDY3LDEwND
+E5Mzk4NTksMTQ5MDkyMjk1MCwxMTYxNTQwOTg2LDE3OTY3MDA3
+MTMsNDQxOTg2MzUwLC0xOTk4NTE3MzcwXX0=
 -->
