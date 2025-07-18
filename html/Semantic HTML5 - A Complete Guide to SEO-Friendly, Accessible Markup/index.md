@@ -11,6 +11,7 @@ tags:
   - accessibility
 lastmod: 2021-04-29T11:32:09.599Z
 ---
+If you see two decade ago, we had table
 
 If you've worked with earlier versions of HTML, such as XHTML or HTML4, you're likely familiar with the page structure that relied heavily on `<div>` elements.
 
@@ -49,8 +50,8 @@ If you've worked with earlier versions of HTML, such as XHTML or HTML4, you're l
 </body>
 </html>
 ```
-Having a look at the above code example, you can notice that all `<div>` refenreced with unique ID for header, navigation, siderbar,content  and footer. This was the old way of identifying each different sections in HTML structure.
+Having a look at the above code example, you can notice that all `<div>` refenreced with unique ID for header, navigation, siderbar, content  and footer. This was the old way of identifying each different sections in HTML page structure. This in other words also called 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMjMwNzY0OSwxMTYxNTQwOTg2LDE3OT
-Y3MDA3MTMsNDQxOTg2MzUwLC0xOTk4NTE3MzcwXX0=
+eyJoaXN0b3J5IjpbLTE0NjY4ODk1OTUsMTE2MTU0MDk4NiwxNz
+k2NzAwNzEzLDQ0MTk4NjM1MCwtMTk5ODUxNzM3MF19
 -->
