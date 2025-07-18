@@ -4,7 +4,7 @@ author: Kushal
 cover: ""
 date: "2017-10-19"
 category: html5
-slug: semantic
+slug: semantic-html5-complete-guide
 tags:
   - javascript-join
   - angular-innerhtml
@@ -12,5 +12,5 @@ tags:
 lastmod: 2021-04-29T11:32:09.599Z
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTg1MTczNzBdfQ==
+eyJoaXN0b3J5IjpbNDQxOTg2MzUwLC0xOTk4NTE3MzcwXX0=
 -->
