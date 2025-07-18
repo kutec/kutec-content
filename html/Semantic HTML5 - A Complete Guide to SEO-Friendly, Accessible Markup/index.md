@@ -12,8 +12,8 @@ tags:
 lastmod: 2021-04-29T11:32:09.599Z
 ---
 
-If you have worked on the earlier version of the HTML like XHTML or HTML4 then you must have idea about the HTML page structure with lot of DIVs.
+If you've worked with earlier versions of HTML, such as XHTML or HTML4, you're likely familiar with the page structure that relied heavily on `<div>` elements.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MDk1MTIwNywxNzk2NzAwNzEzLDQ0MT
+eyJoaXN0b3J5IjpbMTE2MTU0MDk4NiwxNzk2NzAwNzEzLDQ0MT
 k4NjM1MCwtMTk5ODUxNzM3MF19
 -->
