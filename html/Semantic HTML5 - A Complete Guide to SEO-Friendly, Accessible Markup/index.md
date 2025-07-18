@@ -18,15 +18,14 @@ Then I actually learned about **HTML5’s semantic tags**, and—well—it was l
   
 ### Why Bother?  
 * SEO quietly cheers when you use `<article>` instead of `<div id="post">`.  
-  
-Screen readers actually understand <main> vs. <div class="content">.  
-  
-Future-you (or your teammates) won’t have to decode a nest of <div class="wrapper-inner-wrapper">.  
+* Screen readers actually understand `<main>` vs. `<div class="content">`.
+* Future-you (or your teammates) won’t have to decode a nest of `<div class="wrapper-inner-wrapper">`.  
   
 In this guide, I’ll walk through:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkyMzAyOTMyLDIwNjYzNTg5NTUsLTY2OT
-I0MDA2NywxMDQxOTM5ODU5LDE0OTA5MjI5NTAsMTE2MTU0MDk4
-NiwxNzk2NzAwNzEzLDQ0MTk4NjM1MCwtMTk5ODUxNzM3MF19
+eyJoaXN0b3J5IjpbLTE2NzA1MTUwMjQsMjA2NjM1ODk1NSwtNj
+Y5MjQwMDY3LDEwNDE5Mzk4NTksMTQ5MDkyMjk1MCwxMTYxNTQw
+OTg2LDE3OTY3MDA3MTMsNDQxOTg2MzUwLC0xOTk4NTE3MzcwXX
+0=
 -->
