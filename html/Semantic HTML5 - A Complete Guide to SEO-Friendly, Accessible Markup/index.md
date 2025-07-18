@@ -12,50 +12,21 @@ tags:
 lastmod: 2021-04-29T11:32:09.599Z
 ---
 
-
-If you see two decades ago, we had table-based HTML layout. Gradually `<div>` took over for the earlier versions of HTML, such as XHTML or HTML4. This is also called div-based HTML layout.
- 
-### HTML - Old Code Example
-```
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>Old HTML4/XHTML Page</title>
-</head>
-<body>
-    <div id="header">
-        <h1>Website Header</h1>
-    </div>
-    
-    <div id="nav">
-        <a href="#">Home</a> | 
-        <a href="#">About</a> | 
-        <a href="#">Contact</a>
-    </div>
-    
-    <div id="content">
-        <h2>Main Content</h2>
-        <p>This is the main content area, structured using a div.</p>
-    </div>
-    
-    <div id="sidebar">
-        <h3>Sidebar</h3>
-        <p>Additional content or links go here.</p>
-    </div>
-    
-    <div id="footer">
-        <p>&copy; 2024 Old Website. All rights reserved.</p>
-    </div>
-</body>
-</html>
-```
-In the code sample above, each `<div>` refers to a unique ID, such as header, navigation, etc. This was the only way to distinguish between distinct sections of an HTML page structure.
-
-Okay, we have read lot about the past! Let's quickly jump into the HTML5 now.
+Back when I first started coding HTML, I treated every webpage like a stack of LEGO blocks—just throw a bunch of `<div>`s and `<span>`s together until it looked right. Semantics? Accessibility? "That’s for the fancy developers," I thought.  
+  
+Then I actually learned about HTML5’s semantic tags, and—well—it was like realizing I’d been writing in all caps my whole life. Turns out, <header> isn’t just a "fancier <div>," and <nav> does more than make your code look organized.  
+  
+Why Bother?  
+SEO quietly cheers when you use <article> instead of <div id="post">.  
+  
+Screen readers actually understand <main> vs. <div class="content">.  
+  
+Future-you (or your teammates) won’t have to decode a nest of <div class="wrapper-inner-wrapper">.  
+  
+In this guide, I’ll walk through:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NjM1ODk1NSwtNjY5MjQwMDY3LDEwND
-E5Mzk4NTksMTQ5MDkyMjk1MCwxMTYxNTQwOTg2LDE3OTY3MDA3
-MTMsNDQxOTg2MzUwLC0xOTk4NTE3MzcwXX0=
+eyJoaXN0b3J5IjpbMzk5NDYzMDEzLDIwNjYzNTg5NTUsLTY2OT
+I0MDA2NywxMDQxOTM5ODU5LDE0OTA5MjI5NTAsMTE2MTU0MDk4
+NiwxNzk2NzAwNzEzLDQ0MTk4NjM1MCwtMTk5ODUxNzM3MF19
 -->
