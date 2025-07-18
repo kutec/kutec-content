@@ -11,9 +11,9 @@ tags:
   - accessibility
 lastmod: 2021-04-29T11:32:09.599Z
 ---
-If you see two decades ago, we had table-based HTML layouts. Gradually `<div>` took over for the earlier versions of HTML, such as XHTML or HTML4. This is also called div-based HTML structure/layout.
+If you see two decades ago, we had table-based HTML layout. Gradually `<div>` took over for the earlier versions of HTML, such as XHTML or HTML4. This is also called div-based HTML layout.
  
-Having a look at the above code example, you can notice that all `<div>` refenreced with unique ID like header, navigation, siderbar, content  and footer. This was the old way of identifying each different sections in HTML page structure. This in other words also called div-based layout.
+Having a look at the below code-example, you can notice that all `<div>` refenreced with unique ID like header, navigation, etc. This was the only way then to identify different sections in HTML page structure. This in other words also called div-based layout.
 
 ### HTML - Old Code Example
 ```
@@ -52,7 +52,7 @@ Having a look at the above code example, you can notice that all `<div>` refenre
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAwMDY2NjIyLDEwNDE5Mzk4NTksMTQ5MD
-kyMjk1MCwxMTYxNTQwOTg2LDE3OTY3MDA3MTMsNDQxOTg2MzUw
-LC0xOTk4NTE3MzcwXX0=
+eyJoaXN0b3J5IjpbMTAxMDQ3NzUxMCwxMDQxOTM5ODU5LDE0OT
+A5MjI5NTAsMTE2MTU0MDk4NiwxNzk2NzAwNzEzLDQ0MTk4NjM1
+MCwtMTk5ODUxNzM3MF19
 -->
