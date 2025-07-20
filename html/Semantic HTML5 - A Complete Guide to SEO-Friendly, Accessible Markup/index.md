@@ -1,7 +1,7 @@
 ---
 title: Semantic HTML5 - The Web Developer's Guide to Accessible, SEO-Friendly Markup
 author: Kushal
-cover: ""
+cover: "./html5-semantic-cover.png"
 date: "2017-10-19"
 category: html
 slug: semantic-html5-seo-accessibility
