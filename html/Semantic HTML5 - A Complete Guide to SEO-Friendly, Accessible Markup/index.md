@@ -41,6 +41,8 @@ Screen readers treat `<nav>` as navigation and `<main>` as, well, main content. 
 <button aria-label="Submit form">Submit</button>
 ```
 
+![enter image description here](./debugging-mm-1.gif)
+
 ### 2. **Debugging Without Losing Your Mind**
 Ever tried to find where a style is coming from in a `<div>`-only codebase? It's like playing CSS whack-a-mole. Semantic tags **reduce selector complexity**:
 ```css
@@ -100,6 +102,7 @@ Because in our world, **the only constant is legacy code.** Might as well make i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2Njk4NTM3MywtMjE0MDE1NzQ3NCwxNj
-E1NzczMjgyLDE1NjA4MTAyNzMsMTYwNTExNzU3Ml19
+eyJoaXN0b3J5IjpbLTExMjUwODgxMzQsMTU2Njk4NTM3MywtMj
+E0MDE1NzQ3NCwxNjE1NzczMjgyLDE1NjA4MTAyNzMsMTYwNTEx
+NzU3Ml19
 -->
