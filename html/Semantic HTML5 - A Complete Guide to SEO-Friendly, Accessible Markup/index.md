@@ -76,7 +76,7 @@ Some "best practices" aren't worth it:
 ## **Real Talk: When to Bend the Rules**
 
 1. **CMS Output**  
-   If your WordPress theme spits out `<div>`s, don't fight it. Just wrap the worst offenders.
+   If your WordPress/Drupal/Liferay theme spits out `<div>`s, don't fight it. Just wrap the worst offenders.
 
 2. **Legacy Codebases**  
    Refactor files as you touch them. No need for a grand rewrite.
@@ -100,6 +100,6 @@ Because in our world, **the only constant is legacy code.** Might as well make i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNTc3MzI4MiwxNTYwODEwMjczLDE2MD
-UxMTc1NzJdfQ==
+eyJoaXN0b3J5IjpbLTIxNDAxNTc0NzQsMTYxNTc3MzI4MiwxNT
+YwODEwMjczLDE2MDUxMTc1NzJdfQ==
 -->
