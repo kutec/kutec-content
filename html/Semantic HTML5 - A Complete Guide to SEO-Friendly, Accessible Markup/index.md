@@ -4,7 +4,7 @@ author: Kushal
 cover: ""
 date: "2017-10-19"
 category: html5
-slug: semantic-html5-complete-guide
+slug: semantic-html5-seo-accessibility
 tags:
   - web-standard
   - seo
@@ -98,9 +98,9 @@ Because in our world, **the only constant is legacy code.** Might as well make i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjQzNDI3NCwtMjA4MDg5OTIyNywtMT
-M1MTg0MTg2NiwtOTgwNTQ5NzUsLTUyMDE0NTc4NSw5Njg1ODQ1
-MDIsMjA2NjM1ODk1NSwtNjY5MjQwMDY3LDEwNDE5Mzk4NTksMT
-Q5MDkyMjk1MCwxMTYxNTQwOTg2LDE3OTY3MDA3MTMsNDQxOTg2
-MzUwLC0xOTk4NTE3MzcwXX0=
+eyJoaXN0b3J5IjpbLTI4MTI0OTYyNiwtMTkyNDM0Mjc0LC0yMD
+gwODk5MjI3LC0xMzUxODQxODY2LC05ODA1NDk3NSwtNTIwMTQ1
+Nzg1LDk2ODU4NDUwMiwyMDY2MzU4OTU1LC02NjkyNDAwNjcsMT
+A0MTkzOTg1OSwxNDkwOTIyOTUwLDExNjE1NDA5ODYsMTc5Njcw
+MDcxMyw0NDE5ODYzNTAsLTE5OTg1MTczNzBdfQ==
 -->
