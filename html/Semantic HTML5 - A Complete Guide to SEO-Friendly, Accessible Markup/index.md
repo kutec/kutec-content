@@ -14,7 +14,7 @@ lastmod: 2021-04-29T11:32:09.599Z
 ---
 
 Look, we've all been there. You're staring at a codebase where every damn element is a `<div>` with class names like "content-wrapper-2" or "inner-container-sub." It works, but it feels like building furniture with nothing but glue and hope.
-![enter image description here](html/Semantic%20HTML5%20-%20A%20Complete%20Guide%20to%20SEO-Friendly,%20Accessible%20Markup/html5-semantic-img-1.jpg)
+![enter image description here](https://github.com/kutec/kutec-content/blob/70cdd06622ee9887fa8ddbdbcb96095d58c6dd40/html/Semantic%20HTML5%20-%20A%20Complete%20Guide%20to%20SEO-Friendly,%20Accessible%20Markup/html5-semantic-img-1.jpg)
 
 ## **The Moment It Clicked for Me**
 
@@ -99,5 +99,5 @@ Because in our world, **the only constant is legacy code.** Might as well make i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2Njc5MzQwMl19
+eyJoaXN0b3J5IjpbMTYwNTExNzU3Ml19
 -->
