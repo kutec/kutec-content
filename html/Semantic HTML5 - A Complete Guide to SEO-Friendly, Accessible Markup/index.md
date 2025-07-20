@@ -40,6 +40,7 @@ Screen readers treat `<nav>` as navigation and `<main>` as, well, main content. 
 <!-- After (enlightened) -->
 <button aria-label="Submit form">Submit</button>
 ```
+_"Okay, fess up - who else has used a div as a button and lived to regret it? Share your horror stories below!"_
 
 ### 2. **Debugging Without Losing Your Mind**
 Ever tried to find where a style is coming from in a `<div>`-only codebase? It's like playing CSS whack-a-mole. Semantic tags **reduce selector complexity**:
@@ -107,8 +108,8 @@ Because in our world, **the only constant is legacy code.** Might as well make i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NTUyODg0MiwtMjA3NzI1NzkxNiwtMT
-YyMDQ0ODIwNCwtMTEyNTA4ODEzNCwxNTY2OTg1MzczLC0yMTQw
-MTU3NDc0LDE2MTU3NzMyODIsMTU2MDgxMDI3MywxNjA1MTE3NT
-cyXX0=
+eyJoaXN0b3J5IjpbMTg5OTQwMjQ4OCwxMDc1NTI4ODQyLC0yMD
+c3MjU3OTE2LC0xNjIwNDQ4MjA0LC0xMTI1MDg4MTM0LDE1NjY5
+ODUzNzMsLTIxNDAxNTc0NzQsMTYxNTc3MzI4MiwxNTYwODEwMj
+czLDE2MDUxMTc1NzJdfQ==
 -->
