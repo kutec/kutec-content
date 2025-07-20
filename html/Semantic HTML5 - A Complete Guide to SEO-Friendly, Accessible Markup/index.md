@@ -78,6 +78,8 @@ Some "best practices" aren't worth it:
 
 ## **Real Talk: When to Bend the Rules**
 
+![Real Talk Here](./real-talk-mm-2.gif)
+
 1. **CMS Output**  
    If your WordPress/Drupal/Liferay theme spits out `<div>`s, don't fight it. Just wrap the worst offenders.
 
@@ -103,7 +105,7 @@ Because in our world, **the only constant is legacy code.** Might as well make i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjA0NDgyMDQsLTExMjUwODgxMzQsMT
-U2Njk4NTM3MywtMjE0MDE1NzQ3NCwxNjE1NzczMjgyLDE1NjA4
-MTAyNzMsMTYwNTExNzU3Ml19
+eyJoaXN0b3J5IjpbLTIwNzcyNTc5MTYsLTE2MjA0NDgyMDQsLT
+ExMjUwODgxMzQsMTU2Njk4NTM3MywtMjE0MDE1NzQ3NCwxNjE1
+NzczMjgyLDE1NjA4MTAyNzMsMTYwNTExNzU3Ml19
 -->
