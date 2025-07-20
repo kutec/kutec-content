@@ -1,5 +1,5 @@
 ---
-title: Semantic HTML5 - A Complete Guide to SEO-Friendly, Accessible Markup
+title: **Semantic HTML5: The Web Developer's Guide to Accessible, SEO-Friendly Markup
 author: Kushal
 cover: ""
 date: "2017-10-19"
@@ -97,9 +97,9 @@ Because in our world, **the only constant is legacy code.** Might as well make i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODA4OTkyMjcsLTEzNTE4NDE4NjYsLT
-k4MDU0OTc1LC01MjAxNDU3ODUsOTY4NTg0NTAyLDIwNjYzNTg5
-NTUsLTY2OTI0MDA2NywxMDQxOTM5ODU5LDE0OTA5MjI5NTAsMT
-E2MTU0MDk4NiwxNzk2NzAwNzEzLDQ0MTk4NjM1MCwtMTk5ODUx
-NzM3MF19
+eyJoaXN0b3J5IjpbMjA0MjA3OTU0NywtMjA4MDg5OTIyNywtMT
+M1MTg0MTg2NiwtOTgwNTQ5NzUsLTUyMDE0NTc4NSw5Njg1ODQ1
+MDIsMjA2NjM1ODk1NSwtNjY5MjQwMDY3LDEwNDE5Mzk4NTksMT
+Q5MDkyMjk1MCwxMTYxNTQwOTg2LDE3OTY3MDA3MTMsNDQxOTg2
+MzUwLC0xOTk4NTE3MzcwXX0=
 -->
