@@ -104,8 +104,10 @@ Because in our world, **the only constant is legacy code.** Might as well make i
 
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MzMxMjU5NCwtMjA3NzI1NzkxNiwtMT
+eyJoaXN0b3J5IjpbMTA3NTUyODg0MiwtMjA3NzI1NzkxNiwtMT
 YyMDQ0ODIwNCwtMTEyNTA4ODEzNCwxNTY2OTg1MzczLC0yMTQw
 MTU3NDc0LDE2MTU3NzMyODIsMTU2MDgxMDI3MywxNjA1MTE3NT
 cyXX0=
