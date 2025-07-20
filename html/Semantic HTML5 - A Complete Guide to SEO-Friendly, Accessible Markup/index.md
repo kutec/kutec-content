@@ -3,7 +3,7 @@ title: Semantic HTML5 - The Web Developer's Guide to Accessible, SEO-Friendly Ma
 author: Kushal
 cover: ""
 date: "2017-10-19"
-category: html5
+category: html
 slug: semantic-html5-seo-accessibility
 tags:
   - web-standard
@@ -114,8 +114,8 @@ _Got your own semantic HTML war stories or pro tips? Share them below - the best
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDkxNDk4NDEsMTA3NTUyODg0MiwtMj
-A3NzI1NzkxNiwtMTYyMDQ0ODIwNCwtMTEyNTA4ODEzNCwxNTY2
-OTg1MzczLC0yMTQwMTU3NDc0LDE2MTU3NzMyODIsMTU2MDgxMD
-I3MywxNjA1MTE3NTcyXX0=
+eyJoaXN0b3J5IjpbLTI2NzQyODU2NiwtMTgwOTE0OTg0MSwxMD
+c1NTI4ODQyLC0yMDc3MjU3OTE2LC0xNjIwNDQ4MjA0LC0xMTI1
+MDg4MTM0LDE1NjY5ODUzNzMsLTIxNDAxNTc0NzQsMTYxNTc3Mz
+I4MiwxNTYwODEwMjczLDE2MDUxMTc1NzJdfQ==
 -->
