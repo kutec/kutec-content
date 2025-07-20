@@ -91,7 +91,7 @@ Some "best practices" aren't worth it:
 
 ## **The Bottom Line**
 
-After 6 years, here's what I've learned:
+After years, here's what I've learned:
 - **Semantic HTML isn't religion**—it's about making your life easier
 - **Accessibility isn't optional** if you want to sleep at night
 - **Performance gains are real**, if incremental
@@ -105,7 +105,8 @@ Because in our world, **the only constant is legacy code.** Might as well make i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzcyNTc5MTYsLTE2MjA0NDgyMDQsLT
-ExMjUwODgxMzQsMTU2Njk4NTM3MywtMjE0MDE1NzQ3NCwxNjE1
-NzczMjgyLDE1NjA4MTAyNzMsMTYwNTExNzU3Ml19
+eyJoaXN0b3J5IjpbLTc5MzMxMjU5NCwtMjA3NzI1NzkxNiwtMT
+YyMDQ0ODIwNCwtMTEyNTA4ODEzNCwxNTY2OTg1MzczLC0yMTQw
+MTU3NDc0LDE2MTU3NzMyODIsMTU2MDgxMDI3MywxNjA1MTE3NT
+cyXX0=
 -->
