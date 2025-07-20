@@ -13,7 +13,7 @@ tags:
 lastmod: 2021-04-29T11:32:09.599Z
 ---
 
-Look, we've all been there. You're staring at a codebase where every damn element is a `<div>` with class names like "content-wrapper-2" or "inner-container-sub." It works, but it feels like building furniture with nothing but glue and hope.
+Look, we have all been there. You're staring at a codebase where every damn element is a `<div>` with class names like "content-wrapper-2" or "inner-container-sub." It works, but it feels like building furniture with nothing but glue and hope.
 
 ![Hell of a DIV - HTML5 Semantic](./html5-semantic-img-1.jpg)
 
