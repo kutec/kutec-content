@@ -90,6 +90,8 @@ Some "best practices" aren't worth it:
 3. **Third-Party Widgets**  
    Sometimes you're stuck with `<div class="ugly-js-component">`. Document it and move on.
 
+_Disagree with any of my advice? Think I missed something crucial? Let's debate in the comments!_
+
 ## **The Bottom Line**
 
 After years, here's what I've learned:
@@ -108,7 +110,7 @@ Because in our world, **the only constant is legacy code.** Might as well make i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5OTQwMjQ4OCwxMDc1NTI4ODQyLC0yMD
+eyJoaXN0b3J5IjpbMTM1NDY5MzY1MywxMDc1NTI4ODQyLC0yMD
 c3MjU3OTE2LC0xNjIwNDQ4MjA0LC0xMTI1MDg4MTM0LDE1NjY5
 ODUzNzMsLTIxNDAxNTc0NzQsMTYxNTc3MzI4MiwxNTYwODEwMj
 czLDE2MDUxMTc1NzJdfQ==
