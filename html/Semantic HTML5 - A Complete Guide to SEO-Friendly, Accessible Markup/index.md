@@ -85,7 +85,7 @@ Some "best practices" aren't worth it:
    Sometimes you're stuck with `<div class="ugly-js-component">`. Document it and move on.
 
 ## **The Bottom Line**
-
+(updated )
 After 12 years, here's what I've learned:
 - **Semantic HTML isn't religion**—it's about making your life easier
 - **Accessibility isn't optional** if you want to sleep at night
@@ -100,6 +100,6 @@ Because in our world, **the only constant is legacy code.** Might as well make i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDAxNTc0NzQsMTYxNTc3MzI4MiwxNT
-YwODEwMjczLDE2MDUxMTc1NzJdfQ==
+eyJoaXN0b3J5IjpbMTQ2NjYxMzM3MCwtMjE0MDE1NzQ3NCwxNj
+E1NzczMjgyLDE1NjA4MTAyNzMsMTYwNTExNzU3Ml19
 -->
