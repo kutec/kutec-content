@@ -20,7 +20,7 @@ Back in 2016, I was debugging some legacy code (because of course I was). The pr
 
 That's when I realized: **semantic HTML isn't about purity—it's about not making your coworkers want to strangle you.**
 
-[image-1]
+
 
 ## **What Actually Matters After a Decade in the Game**
 
@@ -97,8 +97,9 @@ Because in our world, **the only constant is legacy code.** Might as well make i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTE4NDE4NjYsLTk4MDU0OTc1LC01Mj
-AxNDU3ODUsOTY4NTg0NTAyLDIwNjYzNTg5NTUsLTY2OTI0MDA2
-NywxMDQxOTM5ODU5LDE0OTA5MjI5NTAsMTE2MTU0MDk4NiwxNz
-k2NzAwNzEzLDQ0MTk4NjM1MCwtMTk5ODUxNzM3MF19
+eyJoaXN0b3J5IjpbLTIwODA4OTkyMjcsLTEzNTE4NDE4NjYsLT
+k4MDU0OTc1LC01MjAxNDU3ODUsOTY4NTg0NTAyLDIwNjYzNTg5
+NTUsLTY2OTI0MDA2NywxMDQxOTM5ODU5LDE0OTA5MjI5NTAsMT
+E2MTU0MDk4NiwxNzk2NzAwNzEzLDQ0MTk4NjM1MCwtMTk5ODUx
+NzM3MF19
 -->
