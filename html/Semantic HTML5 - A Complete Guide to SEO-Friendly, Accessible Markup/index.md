@@ -40,7 +40,7 @@ Screen readers treat `<nav>` as navigation and `<main>` as, well, main content. 
 <!-- After (enlightened) -->
 <button aria-label="Submit form">Submit</button>
 ```
-_"Okay, fess up - who else has used a div as a button and lived to regret it? Share your horror stories below!"_
+_Okay, fess up - who else has used a div as a button and lived to regret it? Share your horror stories below!_
 
 ### 2. **Debugging Without Losing Your Mind**
 Ever tried to find where a style is coming from in a `<div>`-only codebase? It's like playing CSS whack-a-mole. Semantic tags **reduce selector complexity**:
@@ -77,6 +77,8 @@ Some "best practices" aren't worth it:
 - `<section>` is useless without a heading (h2-h6)
 - ARIA is a last resort, not a band-aid
 
+_Which of these mistakes have YOU made? Be honest - we've all been there!_
+
 ## **Real Talk: When to Bend the Rules**
 
 ![Real Talk Here](./real-talk-mm-2.gif)
@@ -105,13 +107,15 @@ Because in our world, **the only constant is legacy code.** Might as well make i
 
 *— A dev who's seen too many `<div class="div">`s*  
 
+_Got your own semantic HTML war stories or pro tips? Share them below - the best comment gets a shoutout in next week's newsletter!_
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NDY5MzY1MywxMDc1NTI4ODQyLC0yMD
-c3MjU3OTE2LC0xNjIwNDQ4MjA0LC0xMTI1MDg4MTM0LDE1NjY5
-ODUzNzMsLTIxNDAxNTc0NzQsMTYxNTc3MzI4MiwxNTYwODEwMj
-czLDE2MDUxMTc1NzJdfQ==
+eyJoaXN0b3J5IjpbLTE4MDkxNDk4NDEsMTA3NTUyODg0MiwtMj
+A3NzI1NzkxNiwtMTYyMDQ0ODIwNCwtMTEyNTA4ODEzNCwxNTY2
+OTg1MzczLC0yMTQwMTU3NDc0LDE2MTU3NzMyODIsMTU2MDgxMD
+I3MywxNjA1MTE3NTcyXX0=
 -->
