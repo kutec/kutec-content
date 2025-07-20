@@ -9,6 +9,7 @@ tags:
   - web-standard
   - seo
   - accessibility
+  - html5-markup
 lastmod: 2021-04-29T11:32:09.599Z
 ---
 
@@ -97,9 +98,9 @@ Because in our world, **the only constant is legacy code.** Might as well make i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjkxMTAxMzAsLTIwODA4OTkyMjcsLT
-EzNTE4NDE4NjYsLTk4MDU0OTc1LC01MjAxNDU3ODUsOTY4NTg0
-NTAyLDIwNjYzNTg5NTUsLTY2OTI0MDA2NywxMDQxOTM5ODU5LD
-E0OTA5MjI5NTAsMTE2MTU0MDk4NiwxNzk2NzAwNzEzLDQ0MTk4
-NjM1MCwtMTk5ODUxNzM3MF19
+eyJoaXN0b3J5IjpbLTE5MjQzNDI3NCwtMjA4MDg5OTIyNywtMT
+M1MTg0MTg2NiwtOTgwNTQ5NzUsLTUyMDE0NTc4NSw5Njg1ODQ1
+MDIsMjA2NjM1ODk1NSwtNjY5MjQwMDY3LDEwNDE5Mzk4NTksMT
+Q5MDkyMjk1MCwxMTYxNTQwOTg2LDE3OTY3MDA3MTMsNDQxOTg2
+MzUwLC0xOTk4NTE3MzcwXX0=
 -->
