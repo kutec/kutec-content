@@ -33,14 +33,14 @@ If you’ve been following any v3 tutorial or AI snippet, that’s probably wher
 
 ### 1. Spin up your Vite + React app
 
-```
+```bash
 npm create vite@latest my-app -- --template react
 cd my-app
 npm install
 ```
 
 ### 2. Install the right Tailwind v4 packages
-```
+```bash
 npm install -D tailwindcss@latest @tailwindcss/vite@latest
 ```
 -   `tailwindcss@latest`: the core engine.    
@@ -49,7 +49,7 @@ npm install -D tailwindcss@latest @tailwindcss/vite@latest
 
 ### 3. Update your Vite config
 In `vite.config.js`:
-```
+```js
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
@@ -63,14 +63,14 @@ Notice: no PostCSS config needed.
 ### 4. Add your CSS entry
 
 Create `src/index.css` with:
-```
+```css
 @import "tailwindcss";
 ```
 That’s literally it. One line.
 
 ### 5. Hook it into your app
 In `src/main.jsx`:
-```
+```jsx
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'
@@ -84,13 +84,13 @@ createRoot(document.getElementById('root')).render(
 ```
 
 ### 6. Fire it up
-```
+```bash
 npm run dev
 ```
 
 ### 7. Final Step - Test
 Drop a Tailwind class into your `App.jsx` and confirm it’s working:
-```
+```jsx
 function App() {
   return (
     <div className="grid min-h-screen place-items-center bg-gradient-to-br from-blue-400 to-purple-600">
@@ -116,6 +116,6 @@ The leap from Tailwind v3 to v4 actually makes life easier once you know the new
 
 Hopefully, this saves you the trial-and-error loop I went through. If you’re migrating from v3, just remember: skip the old configs, trust the plugin, and you’ll be up and running in minutes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTE4NzAwMTcsLTE0NTU5NTk1MDYsLT
-I4ODI5ODczNCwyMDE2Nzk1MzYyXX0=
+eyJoaXN0b3J5IjpbNzM4OTYyMzQ3LC0xNDU1OTU5NTA2LC0yOD
+gyOTg3MzQsMjAxNjc5NTM2Ml19
 -->
