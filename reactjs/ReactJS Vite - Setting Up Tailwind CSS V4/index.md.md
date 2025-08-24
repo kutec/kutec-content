@@ -1,12 +1,13 @@
 ---
-title: Getting Started with React
+title: Why AI Still Messes Up Tailwind CSS v4 + Vite — And How You Can Get It Right in One Go
 cover: ""
-date: "2018-06-06"
+date: "2025-08-24"
 category: reactjs
-slug: getting-started-with-react
+slug: reactjs-vite-tailwindcssv4-setup
 tags:
   - react-beginner
   - beginner
+  - tailwindcss
 ---
 
 I was thinking of learning about Reactjs from last few years. But somehow I couldn't make it. I know it's too late but finally, I begin towards that, and this is the very first post in the Reactjs category.
@@ -88,5 +89,5 @@ Next, we would understand the scafolding or architecture of a Reactjs project.
 
 Stay tuned and happy coding :)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwODMyMzY5NF19
+eyJoaXN0b3J5IjpbMTYzODc2MzAzN119
 -->
