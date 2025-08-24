@@ -1,5 +1,5 @@
 ---
-title: Why AI Still Messes Up Tailwind CSS v4 + Vite — And How You Can Get It Right in One Go
+title: Tailwind CSS v4 + Vite + React Setup Guide (The Right Way in 2025)
 cover: ""
 date: "2025-08-24"
 category: reactjs
@@ -114,5 +114,6 @@ The leap from Tailwind v3 to v4 actually makes life easier once you know the new
 
 Hopefully, this saves you the trial-and-error loop I went through. If you’re migrating from v3, just remember: skip the old configs, trust the plugin, and you’ll be up and running in minutes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4ODI5ODczNCwyMDE2Nzk1MzYyXX0=
+eyJoaXN0b3J5IjpbLTYwODYzNzE3MywtMjg4Mjk4NzM0LDIwMT
+Y3OTUzNjJdfQ==
 -->
