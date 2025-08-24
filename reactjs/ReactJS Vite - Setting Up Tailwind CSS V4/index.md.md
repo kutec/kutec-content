@@ -63,7 +63,6 @@ Notice: no PostCSS config needed.
 Create `src/index.css` with:
 ```
 @import "tailwindcss";
-
 ```
 That’s literally it. One line.
 
@@ -82,7 +81,13 @@ createRoot(document.getElementById('root')).render(
 )
 ```
 
+### 6. Fire it up
+```
+npm run dev
+```
 
+### 7. Final Step: 
+Drop a Tailwind class into your `App.jsx` and confirm it’s working:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1OTA5MDI1MCwyMDE2Nzk1MzYyXX0=
+eyJoaXN0b3J5IjpbLTE5ODk5NDAwNDgsMjAxNjc5NTM2Ml19
 -->
