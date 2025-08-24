@@ -46,8 +46,43 @@ npm install -D tailwindcss@latest @tailwindcss/vite@latest
     
 
 ### 3. Update your Vite config
-
 In `vite.config.js`:
+```
+import { defineConfig } from 'vite'
+import react from '@vitejs/plugin-react'
+import tailwindcss from '@tailwindcss/vite'
+
+export default defineConfig({
+  plugins: [react(), tailwindcss()],
+})
+```
+Notice: no PostCSS config needed.
+
+### 4. Add your CSS entry
+
+Create `src/index.css` with:
+```
+@import "tailwindcss";
+
+```
+That’s literally it. One line.
+
+### 5. Hook it into your app
+In `src/main.jsx`:
+```
+import { StrictMode } from 'react'
+import { createRoot } from 'react-dom/client'
+import './index.css'
+import App from './App.jsx'
+
+createRoot(document.getElementById('root')).render(
+  <StrictMode>
+    <App />
+  </StrictMode>
+)
+```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MTMzNTI2NiwyMDE2Nzk1MzYyXX0=
+eyJoaXN0b3J5IjpbMTA1OTA5MDI1MCwyMDE2Nzk1MzYyXX0=
 -->
