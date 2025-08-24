@@ -31,11 +31,23 @@ If you’ve been following any v3 tutorial or AI snippet, that’s probably wher
 
 ### 1. Spin up your Vite + React app
 
-`npm create vite@latest my-app -- --template react cd my-app
-npm install` 
+```
+npm create vite@latest my-app -- --template react
+cd my-app
+npm install
+```
 
 ### 2. Install the right Tailwind v4 packages
+```
+npm install -D tailwindcss@latest @tailwindcss/vite@latest
+```
+-   `tailwindcss@latest`: the core engine.    
+-   `@tailwindcss/vite@latest`: the official Vite plugin that quietly handles all the messy integration.
+    
 
+### 3. Update your Vite config
+
+In `vite.config.js`:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzMzMzY3MiwyMDE2Nzk1MzYyXX0=
+eyJoaXN0b3J5IjpbLTI2MTMzNTI2NiwyMDE2Nzk1MzYyXX0=
 -->
