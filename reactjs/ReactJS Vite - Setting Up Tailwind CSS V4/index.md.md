@@ -10,9 +10,11 @@ tags:
   - tailwindcss
 ---
 
-Recently I was trying setting up Vite - ReactJS project using AI. It looked easy initially but when it comes to Tailwind CSS setup, it started giving stereo type wrong answers repeatedely. It felt like yet none of the AI models are tained with the latest Tailwind CSS setup documentation hence most of the AI tools considering od
+Recently I was trying setting up Vite - ReactJS project using AI. It looked easy initially but when it comes to Tailwind CSS setup, it started giving stereo type wrong answers repeatedely. It felt like yet none of the AI models are tained with the latest Tailwind CSS setup documentation hence most of the AI tools considering old methods for Tailwind CSS setup.
+
+I got good hands ons on the Bootstrap but Tailwind is comparitively new and I never touched it in any of the project yet. So I followed alogn how AI
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNTQyODQ4NV19
+eyJoaXN0b3J5IjpbLTE3NDc5NzQxODhdfQ==
 -->
