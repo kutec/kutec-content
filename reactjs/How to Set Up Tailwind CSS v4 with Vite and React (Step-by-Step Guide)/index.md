@@ -9,11 +9,6 @@ tags:
   - beginner
   - tailwindcss
   - css-framework
-
-
-----------
-
-
   - developer-productivity
 ---
 
@@ -121,5 +116,5 @@ The leap from Tailwind v3 to v4 actually makes life easier once you know the new
 
 Hopefully, this saves you the trial-and-error loop I went through. If you’re migrating from v3, just remember: skip the old configs, trust the plugin, and you’ll be up and running in minutes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1ODYxNDEzXX0=
+eyJoaXN0b3J5IjpbNzM4OTYyMzQ3XX0=
 -->
