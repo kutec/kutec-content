@@ -86,8 +86,33 @@ createRoot(document.getElementById('root')).render(
 npm run dev
 ```
 
-### 7. Final Step: 
+### 7. Final Step - Test
 Drop a Tailwind class into your `App.jsx` and confirm it’s working:
+```
+function App() {
+  return (
+    <div className="grid min-h-screen place-items-center bg-gradient-to-br from-blue-400 to-purple-600">
+      <h1 className="text-6xl font-bold text-white drop-shadow-2xl">
+        Success! Tailwind v4 + Vite is alive 🎉
+      </h1>
+    </div>
+  )
+}
+```
+
+## Quick Troubleshooting
+
+-   **`Cannot find module '@tailwindcss/vite'`** → reinstall with `npm install -D @tailwindcss/vite@latest`.
+    
+-   **No styles showing up** → double-check that `index.css` is imported in `main.jsx`.
+    
+-   **Do I need a `tailwind.config.js` file?** → Not unless you’re customizing. For most projects, v4 is “zero-config.” If you want to extend the theme, just run `npx tailwindcss init`.
+
+## Wrapping Up
+
+The leap from Tailwind v3 to v4 actually makes life easier once you know the new rules. The `@tailwindcss/vite` plugin removes all the PostCSS clutter and lets you get straight to styling.
+
+Hopefully, this saves you the trial-and-error loop I went through. If you’re migrating from v3, just remember: skip the old configs, trust the plugin, and you’ll be up and running in minutes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODk5NDAwNDgsMjAxNjc5NTM2Ml19
+eyJoaXN0b3J5IjpbLTI4ODI5ODczNCwyMDE2Nzk1MzYyXX0=
 -->
